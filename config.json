@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "yhack-demo",
+  "DATA_BACKEND": "datastore",
+  "CLOUD_BUCKET": "yhack-demo-bucket"
+
+}
